@@ -1,7 +1,93 @@
-"Head1":"Tail1"
-"Head2":"Tail2"
-"Head3":"Tail3"
-"Head4":"Tail4"
-"Head5":"Tail5"
-"Head6":"Tail6"
-"Head7":"Tail7"
+[
+  {
+    quote: "Imagination is more important than knowledge.",
+    person: "Albert Einstein"
+  },
+
+  {
+    quote: "Useless laws weaken the necessary laws.",
+    person: "Montesquieu"
+  },
+
+  {
+    quote:
+      "The only thing necessary for the triumph of evil is for good men to do nothing.",
+    person: "Edmund Burke"
+  },
+
+  {
+    quote:
+      "The only thing necessary for the triumph of evil is for good men to do nothing.",
+    person: "Edmund Burke"
+  },
+
+  {
+    quote: "E.T. phone home.",
+    person: "E.T."
+  },
+
+  {
+    quote:
+      "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+    person: "Antoine de Saint-Exupéry"
+  },
+
+  {
+    quote:
+      "Love is not just looking at each other, it's looking in the same direction.",
+    person: "Antoine de Saint-Exupéry"
+  },
+
+  {
+    quote: "I may climb perhaps to no great heights, but I will climb alone.",
+    person: "Cyrano de Bergerac"
+  },
+
+  {
+    quote:
+      "Theirs is not to make reply: Theirs is not to reason why: Theirs is but to do and die.",
+    person: "Alfred Tennyson"
+  },
+
+  {
+    quote:
+      "We have forty million reasons for failure, but not a single excuse.",
+    person: "Rudyard Kipling"
+  },
+
+  {
+    quote: "There is no terror in the bang, only in the anticipation of it.",
+    person: "Alfred Hitchcock"
+  },
+
+  {
+    quote:
+      "We have forty million reasons for failure, but not a single excuse.",
+    person: "Rudyard Kipling"
+  },
+
+  {
+    quote: "I have never let my schooling interfere with my education.",
+    person: "Mark Twain"
+  },
+
+  {
+    quote:
+      "I live with the people I create and it has always made my essential loneliness less keen.",
+    person: "Carson McCullers"
+  },
+
+  {
+    quote:
+      "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+    person: "Thomas A. Edison"
+  },
+  
+  {
+  quote:
+      "There is no avoiding war; it can only be postponed to the advantage of others.",
+    person: "Niccolò Machiavelli"
+  }
+  
+  
+];
